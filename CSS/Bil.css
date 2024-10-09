@@ -2,6 +2,8 @@ h1{
     color:blue;
     font-size: 50px;
 }
+
 h1:hover{
-    color: skyblue;
+    color: brown;
+     
 }
